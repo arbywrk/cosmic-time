@@ -1,6 +1,6 @@
 //! An animation toolkit for [Iced](https://github.com/iced-rs/iced)
 //!
-//! > This project was build for [Cosmic DE](https://github.com/pop-os/cosmic-epoch). However, it works for any project that depends on [Iced](https://github.com/iced-rs/iced).
+//! > This project was built for [Cosmic DE](https://github.com/pop-os/cosmic-epoch). However, it works for any project that depends on [Iced](https://github.com/iced-rs/iced).
 //!
 //!
 //!  The goal of this project is to provide a simple API to build and show
